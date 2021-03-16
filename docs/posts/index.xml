@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Machine1s</title>
-    <link>http://machine1s.github.io/posts/</link>
+    <link>https://machine1s.github.io/posts/</link>
     <description>Recent content in Posts on Machine1s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Machine1s</copyright>
-    <lastBuildDate>Tue, 16 Mar 2021 13:45:17 +0800</lastBuildDate><atom:link href="http://machine1s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Mar 2021 13:45:17 +0800</lastBuildDate><atom:link href="https://machine1s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>简报</title>
-      <link>http://machine1s.github.io/posts/my-first-post/</link>
+      <link>https://machine1s.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 16 Mar 2021 13:45:17 +0800</pubDate>
       
-      <guid>http://machine1s.github.io/posts/my-first-post/</guid>
+      <guid>https://machine1s.github.io/posts/my-first-post/</guid>
       <description>思考 人是信息的集合。把每个人作为一个信息“节点”，把“身边的人”定义为“附近”，通过输入输出信息的关系和附近构成关系网络。用进废退，自然选择，节点和附近的信息传递的越多，之间的联系（可称作信任）也就越强。传递的越少，自然就慢慢地从这个关系网络中退化掉。每个节点只有拥有良好的信息输入输出关系才能保持关系网络的健康 。互联网成为了每个人输入信息的最大信息源。没有人能比互联网更有趣，更聪明，它满足了每个人大部分娱乐需求和知识需求。而输出和输入是相对的，当节点都不再从附近得到信息输入时，节点对附近的信息输出也就不存在了。于是关系网络开始退化为孤立节点，孤立节点开始挣扎。
 日常 开学后在寝室上了两周网课。周一三五每天两节课，其他时间都没课。早上有课7点起，没课8点起。晚上11点半上床，上床后不玩手机，因为颈椎不舒服。睡觉戴耳塞。早饭午饭每天一样，晚饭不饿就不吃。一天开口说不了几句话。生活并不是忙碌，只是有点平淡。
 回忆 blog是2月11日除夕就搭建的，可是一直没想好发什么。除夕和我爸还有我弟一起贴了春联，我想上一次贴春联还是在17年。贴完后我花了一下午时间研究了怎样用GitHub和Hugo搭建一个blog。晚上吃完饭后我去街上散步，想想怎么去写blog的第一篇。街边商铺基本都关门，路灯也开一盏关一盏。我走到广场上发现还有大爷大妈们在跳广场舞，我猜可能他们子女都没回来。今年没看春晚。在外面走路的时候想很多东西，大多是关于亲情的，可我回到家花了一晚上一个字也没写出来。于是十点就去睡了。
