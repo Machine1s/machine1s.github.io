@@ -1,0 +1,26 @@
+baseURL = "http://machine1s.github.io"
+languageCode = "en-us"
+title = "Machine1s"
+theme="archie"
+copyright = "© Machine1s"
+paginate=4
+[params]
+	mode="auto"
+	
+
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/maday1s"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
