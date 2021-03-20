@@ -22,6 +22,6 @@ blog是2月11日除夕就搭建的，可是一直没想好发什么。除夕和�
 
 ## 链接
 
-用[Hugo](https://gohugo.io/)搭建blog很简单，用[GitHub](https://github.com/)是因为它永远不会倒闭
+用[Hugo](https://gohugo.io/)搭建blog是它用起来简单，用[GitHub](https://github.com/)是因为它永远不会倒闭
 
 [使用 Hugo + Github 搭建个人博客](https://zhuanlan.zhihu.com/p/105021100)
