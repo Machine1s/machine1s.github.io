@@ -4,32 +4,24 @@
     <title>Posts on Machine1s</title>
     <link>https://machine1s.github.io/posts/</link>
     <description>Recent content in Posts on Machine1s</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Machine1s</copyright>
-    <lastBuildDate>Sat, 20 Mar 2021 18:29:11 +0800</lastBuildDate><atom:link href="https://machine1s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 18:29:11 +0800</lastBuildDate>
+    <atom:link href="https://machine1s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>video test</title>
       <link>https://machine1s.github.io/posts/post2/</link>
       <pubDate>Sat, 20 Mar 2021 18:29:11 +0800</pubDate>
-      
       <guid>https://machine1s.github.io/posts/post2/</guid>
-      <description>Video   Youtube video   </description>
+      <description>&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;&#xA;&#xA;      &lt;div&#xA;          style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;        &lt;iframe&#xA;          src=&#34;https://player.vimeo.com/video/526518313?dnt=0&#34;&#xA;            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;&#xA;        &lt;/iframe&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;youtube-video&#34;&gt;Youtube video&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FObWoOVcIdY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>简报</title>
       <link>https://machine1s.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 16 Mar 2021 13:45:17 +0800</pubDate>
-      
       <guid>https://machine1s.github.io/posts/my-first-post/</guid>
-      <description>思考 人是信息的集合。把个人定义为一个信息“节点”，把“身边的人”定义为“附近”，通过输入输出信息的关系和附近构成关系网络。用进废退，自然选择，节点和附近的信息传递的越多，之间的联系（可称作信任）也就越强。传递的越少，自然就慢慢地从这个关系网络中退化掉。每个节点只有拥有良好的信息输入输出关系才能保持关系网络的健康。互联网成为了每个人输入信息的最大信息源。没有人能比互联网更有趣，更聪明，它满足了每个人大部分娱乐需求和知识需求。而输出和输入是相对的，当节点都不再从附近得到信息输入时，节点对附近的信息输出也就不存在了。于是关系网络开始退化为孤立节点，孤立节点开始挣扎。
-日常 开学后在寝室上了两周网课。周一三五每天两节课，其他时间都没课。早上有课7点起，没课8点起。晚上11点半上床，上床后不玩手机，因为颈椎不舒服。睡觉戴耳塞。早饭午饭基本不变，晚饭不饿就不吃。一天开口说不了几句话。生活并不忙碌，只是有点平淡。
-回忆 blog是2月11日除夕就搭建的，可是一直没想好发什么。除夕和我爸还有我弟一起贴了春联，我记得上一次贴春联还是在17年。贴完后我花了一下午时间研究了怎样用GitHub和Hugo搭建一个blog。晚上吃完饭后我走在大年三十的大街上，想想怎么去写我blog的第一篇。街边商铺基本都关门了，路灯也开一盏关一盏。我走到广场上发现还有大爷大妈们在跳广场舞，可能他们的子女过年都没回家。今年没看春晚。在外面走路的时候想很多东西，大多是关于亲情的本质，可我回家后一个字也没写出来。最后十点就去睡觉了。
-我上一次写日记是在20年10月，再上一次就记不得了。那时我在play商店里发现了一个UI很不错的日记软件，便想着为了这个设计我要开始写日记，为了写出日记我要把生活变有趣一些。于是我强迫自己在不学习的时候去校外走走，把南京的景点看一看。在坚持了不到一个月后因为几天的中断我再也没写过。但是经常出校门的习惯却形成了。我20年下半年出校门的次数比我之前三个学期的总和还要多。
-链接 用Hugo搭建blog是因为它用起来简单，用GitHub是因为它永远不会倒闭
-使用 Hugo + Github 搭建个人博客</description>
+      <description>&lt;h1 id=&#34;思考&#34;&gt;思考&lt;/h1&gt;&#xA;&lt;p&gt;人是信息的集合。把个人定义为一个信息“节点”，把“身边的人”定义为“附近”，通过输入输出信息的关系和附近构成关系网络。用进废退，自然选择，节点和附近的信息传递的越多，之间的联系（可称作信任）也就越强。传递的越少，自然就慢慢地从这个关系网络中退化掉。每个节点只有拥有良好的信息输入输出关系才能保持关系网络的健康。互联网成为了每个人输入信息的最大信息源。没有人能比互联网更有趣，更聪明，它满足了每个人大部分娱乐需求和知识需求。而输出和输入是相对的，当节点都不再从附近得到信息输入时，节点对附近的信息输出也就不存在了。于是关系网络开始退化为孤立节点，孤立节点开始挣扎。&lt;/p&gt;&#xA;&lt;h1 id=&#34;日常&#34;&gt;日常&lt;/h1&gt;&#xA;&lt;p&gt;开学后在寝室上了两周网课。周一三五每天两节课，其他时间都没课。早上有课7点起，没课8点起。晚上11点半上床，上床后不玩手机，因为颈椎不舒服。睡觉戴耳塞。早饭午饭基本不变，晚饭不饿就不吃。一天开口说不了几句话。生活并不忙碌，只是有点平淡。&lt;/p&gt;&#xA;&lt;h1 id=&#34;回忆&#34;&gt;回忆&lt;/h1&gt;&#xA;&lt;p&gt;blog是2月11日除夕就搭建的，可是一直没想好发什么。除夕和我爸还有我弟一起贴了春联，我记得上一次贴春联还是在17年。贴完后我花了一下午时间研究了怎样用GitHub和Hugo搭建一个blog。晚上吃完饭后我走在大年三十的大街上，想想怎么去写我blog的第一篇。街边商铺基本都关门了，路灯也开一盏关一盏。我走到广场上发现还有大爷大妈们在跳广场舞，可能他们的子女过年都没回家。今年没看春晚。在外面走路的时候想很多东西，大多是关于亲情的本质，可我回家后一个字也没写出来。最后十点就去睡觉了。&lt;/p&gt;&#xA;&lt;p&gt;我上一次写日记是在20年10月，再上一次就记不得了。那时我在play商店里发现了一个UI很不错的日记软件，便想着为了这个设计我要开始写日记，为了写出日记我要把生活变有趣一些。于是我强迫自己在不学习的时候去校外走走，把南京的景点看一看。在坚持了不到一个月后因为几天的中断我再也没写过。但是经常出校门的习惯却形成了。我20年下半年出校门的次数比我之前三个学期的总和还要多。&lt;/p&gt;&#xA;&lt;h2 id=&#34;链接&#34;&gt;链接&lt;/h2&gt;&#xA;&lt;p&gt;用&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;搭建blog是因为它用起来简单，用&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt;是因为它永远不会倒闭&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/105021100&#34;&gt;使用 Hugo + Github 搭建个人博客&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,26 +1,50 @@
 baseURL = "https://machine1s.github.io/"
 languageCode = "en-us"
 title = "Machine1s"
-theme="archie"
+theme = "archie"
 copyright = "© Machine1s"
-paginate=4
-[params]
-	mode="auto"
-	
+[pagination]
+  pagerSize = 5
 
+# --- Code Highlighting ---
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	mode = "auto"
+	useCDN = false
+	subtitle = "Exploring the boundaries of technology and life"
+
+# --- Social Tags ---
+[[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/mayday1s"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/mayday1s"
+	name = "GitHub"
+	icon = "github"
+	url = "https://github.com/machine1s"
 
+
+# --- Main Menu ---
+[[menu.main]]
+	name = "Home"
+	url = "/"
+	weight = 1
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+	name = "All posts"
+	url = "/posts"
+	weight = 2
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+	name = "About"
+	url = "/about"
+	weight = 3
+
+[[menu.main]]
+	name = "Tags"
+	url = "/tags"
+	weight = 4
